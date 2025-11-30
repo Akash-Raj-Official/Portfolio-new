@@ -51,13 +51,13 @@ Each certification card includes:
 
 ```
 portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # Complete stylesheet
-├── script.js           # JavaScript for interactions
-├── profile.jpg         # Profile image
-├── shopykart.png       # Project image
-├── Reservation.png     # Project image
-└── README.md           # This file
+├── index.html              # Main HTML file
+├── styles.css              # Complete stylesheet
+├── script.js               # JavaScript for interactions
+├── profile.jpg             # Profile image
+├── weather-aggregator.png  # Project image
+├── Reservation.png         # Project image
+└── README.md               # This file
 ```
 
 ## 🚀 Getting Started
